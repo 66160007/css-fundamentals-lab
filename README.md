@@ -1,3 +1,11 @@
 # css-fundamentals-lab
 - git config --global user.name "66160007"
 - git config --global user.email "66160007@go.buu.ac.th"
+- git clone repo-url
+- git checkout -b feature/main
+- git checkout -b feature/css
+- git checkout main
+- git add.
+- git commit -m "comment"
+- git merge filename
+- git push
